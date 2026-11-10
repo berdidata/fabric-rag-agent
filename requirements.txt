@@ -1,0 +1,4 @@
+openai>=1.40
+azure-search-documents>=11.6
+streamlit>=1.38
+python-dotenv>=1.0
